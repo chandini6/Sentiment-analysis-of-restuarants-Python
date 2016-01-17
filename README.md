@@ -1,6 +1,8 @@
 # Sentiment-analysis-of-restuarants-Python
 
 Final project BIA 660
+
+
 The aim of project is to determine the classify the sentiment of reviews about the restuarants scrapped from yelp, open table, Trip advsior etc
 
 The reviews are collected by scrapping the website using html tags of the reviews. 
